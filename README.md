@@ -1,2 +1,2 @@
 # legendary-octo-succotash
-Enhance the ability of coding.
+Code-in-Interesting-Learn-Algorithm
